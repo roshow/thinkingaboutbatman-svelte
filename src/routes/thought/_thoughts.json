@@ -1,0 +1,1216 @@
+[
+  {
+    "_id": { "$oid": "522d15edc233e4795d80aa24" },
+    "credit": {
+      "name": "1989 movie poster",
+      "link": "http://www.imdb.com/title/tt0096895/"
+    },
+    "id": "0aa24",
+    "img": {
+      "src": "1989.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522d15edc233e4795d80aa25" },
+    "credit": {
+      "name": "Greg Capullo",
+      "link": "http://thegregcapullo.deviantart.com/"
+    },
+    "id": "0aa25",
+    "img": {
+      "src": "Batman-Capullo.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522d15edc233e4795d80aa26" },
+    "credit": {
+      "name": "Jim Aparo",
+      "link": "http://en.wikipedia.org/wiki/Jim_Aparo"
+    },
+    "id": "0aa26",
+    "img": {
+      "src": "iambrucewayne.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522d15eec233e4795d80aa27" },
+    "credit": {
+      "name": "1966 movie poster",
+      "link": "http://www.imdb.com/title/tt0060153/"
+    },
+    "id": "0aa27",
+    "img": {
+      "src": "1966.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "522d15eec233e4795d80aa28" },
+    "credit": {
+      "name": "The Untold Legend of the Batman",
+      "link": "http://www.goodreads.com/book/show/704584.The_Untold_Legend_of_the_Batman"
+    },
+    "id": "0aa28",
+    "img": {
+      "src": "untoldlegend.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "522d15eec233e4795d80aa29" },
+    "credit": {
+      "name": "Batman Begins movie poster",
+      "link": "www.imdb.com/title/tt0372784/‎"
+    },
+    "id": "0aa29",
+    "img": {
+      "src": "begins.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "522d15eec233e4795d80aa2a" },
+    "credit": {
+      "name": "Michael Powell",
+      "link": "http://michaelpowellart.tumblr.com/"
+    },
+    "id": "0aa2a",
+    "img": {
+      "src": "mpowell.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "522dbaa9e4b09d99b37f88a0" },
+    "credit": {
+      "name": "Frank Quitely",
+      "link": "https://www.facebook.com/pages/Frank-Quitely/20555459955"
+    },
+    "id": "f88a0",
+    "img": {
+      "src": "quitely.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522e429ac233e4795d80aa31" },
+    "credit": {
+      "name": "Jock’s Mondo Poster for The Dark Knight Rises",
+      "link": "http://collider.com/dark-knight-rises-mondo-poster-jock/"
+    },
+    "id": "0aa31",
+    "img": {
+      "src": "jockmondotdkr.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "522e429ac233e4795d80aa32" },
+    "credit": {
+      "name": "Made By ABVH",
+      "link": "http://madebyabvh.tumblr.com/"
+    },
+    "id": "0aa32",
+    "img": {
+      "src": "scaryjoker.gif",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522e429ac233e4795d80aa33" },
+    "credit": {
+      "name": "Batman: The Animated Series",
+      "link": "http://www.imdb.com/title/tt0103359/"
+    },
+    "id": "0aa33",
+    "img": {
+      "src": "tas.gif",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522e4acec233e4795d80aa34" },
+    "credit": {
+      "name": "Batman R.I.P.",
+      "link": "http://www.dccomics.com/graphic-novels/batman-rip"
+    },
+    "id": "0aa34",
+    "img": {
+      "src": "zurenarrhrip.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522e4acec233e4795d80aa35" },
+    "credit": {
+      "name": "Chris Burnham",
+      "link": "http://twitter.com/TheBurnham"
+    },
+    "id": "0aa35",
+    "img": {
+      "src": "batmanincfinity.gif",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522e4acec233e4795d80aa36" },
+    "credit": {
+      "name": "The Dark Knight Rises",
+      "link": "http://www.imdb.com/title/tt1345836/"
+    },
+    "id": "0aa36",
+    "img": {
+      "src": "tdkrskyscraper.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522e5aafc233e4795d80aa37" },
+    "credit": {
+      "name": "Batman (1989)",
+      "link": "http://www.imdb.com/title/tt0096895/"
+    },
+    "id": "0aa37",
+    "img": {
+      "src": "keaton1989.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522e5aafc233e4795d80aa38" },
+    "credit": { "name": "Neal Adams", "link": "http://www.nealadams.com/" },
+    "id": "0aa38",
+    "img": {
+      "src": "nealadams.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "522e7514e4b0a6e04f68e01f" },
+    "credit": {
+      "name": "Batman Begins",
+      "link": "www.imdb.com/title/tt0372784/‎"
+    },
+    "id": "8e01f",
+    "img": {
+      "src": "beginsflass.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "522e775ae4b0a6e04f68e022" },
+    "credit": {
+      "name": "The Dark Knight",
+      "link": "http://www.imdb.com/title/tt0468569‎"
+    },
+    "id": "8e022",
+    "img": {
+      "src": "tdkinterrogation.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "5231043ce4b0f7fccf9849ab" },
+    "credit": {
+      "name": "Yale Stewart",
+      "link": "http://yalestewart.tumblr.com/post/59459043908/a-boy-and-his-toy-commission-pencil-and-ink-on"
+    },
+    "id": "849ab",
+    "img": {
+      "src": "yalestewart.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "5231059be4b0f7fccf9849ac" },
+    "credit": {
+      "name": "Dean Trippe",
+      "link": "http://deantrippe.tumblr.com/"
+    },
+    "id": "849ac",
+    "img": {
+      "src": "trippe-inksPhoto.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "523163d1e4b0a8d3cd029f25" },
+    "credit": {
+      "name": "Detective Comics #27",
+      "link": "http://en.wikipedia.org/wiki/Detective_Comics#Batman"
+    },
+    "id": "29f25",
+    "img": {
+      "src": "detective27.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "523164a9e4b0a8d3cd029f26" },
+    "credit": {
+      "name": "Detective Comics #38",
+      "link": "http://en.wikipedia.org/wiki/Robin_(comics)#Fictional_character_biography"
+    },
+    "id": "29f26",
+    "img": {
+      "src": "detective38.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "523169b2e4b0a8d3cd029f34" },
+    "credit": {
+      "name": "The Dark Knight Returns",
+      "link": "http://dc.wikia.com/wiki/Batman:_The_Dark_Knight_Returns"
+    },
+    "id": "29f34",
+    "img": {
+      "src": "dkr-horse.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "52325ce6e4b041d0e26c9e1f" },
+    "credit": {
+      "name": "Batman and Robin Vol. 1, #1",
+      "link": "http://dc.wikia.com/wiki/Batman_and_Robin_Vol_1"
+    },
+    "id": "c9e1f",
+    "img": {
+      "src": "batmanandrobin1.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52325d55e4b006fac7d205ab" },
+    "credit": {
+      "name": "Batman (TV series 1966-1968)",
+      "link": "http://www.imdb.com/title/tt0059968/"
+    },
+    "id": "205ab",
+    "img": {
+      "src": "adamwest-bts.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52326f7f8ab7dc2735ed81b6" },
+    "credit": {
+      "name": "Super Powers action figure (via Figure Realm)",
+      "link": "http://www.figurerealm.com/actionfigure.php?FID=15537&figure=batman"
+    },
+    "id": "d81b6",
+    "img": {
+      "src": "superpowers.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "52328f3d8ab7dc47bcd87fde" },
+    "credit": {
+      "name": "Batman Forever",
+      "link": "http://www.imdb.com/title/tt0112462/"
+    },
+    "id": "87fde",
+    "img": {
+      "src": "batmanchaseforever.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "52329d528ab7dc585d4472be" },
+    "credit": {
+      "name": "Andy Kubert",
+      "link": "http://thekubertschool.deviantart.com/"
+    },
+    "id": "472be",
+    "img": {
+      "src": "andykubert.jpg",
+      "scale": "cover"
+    }
+  },
+  {
+    "_id": { "$oid": "52329f038ab7dc5bb183247e" },
+    "credit": {
+      "name": "The New Batman Adventures",
+      "link": "http://www.imdb.com/title/tt0118266/"
+    },
+    "id": "3247e",
+    "img": {
+      "src": "newadventures.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "5232a0f48ab7dc5fcf94586a" },
+    "credit": {
+      "name": "Superman: Speeding Bullets",
+      "link": "http://en.wikipedia.org/wiki/Superman:_Speeding_Bullets"
+    },
+    "id": "4586a",
+    "img": {
+      "src": "speedingbullets.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "5232a2ba8ab7dc6356e14fcd" },
+    "credit": {
+      "name": "Batman Begins",
+      "link": "http://www.imdb.com/title/tt0372784/"
+    },
+    "id": "14fcd",
+    "img": {
+      "src": "batmanbeginsintro.gif",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "5232a5418ab7dc68285d4407" },
+    "credit": {
+      "name": "Batman (1989)",
+      "link": "http://www.imdb.com/title/tt0096895/"
+    },
+    "id": "d4407",
+    "img": {
+      "src": "1989ending.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "5232ca428ab7dc9b2839d8d2" },
+    "credit": {
+      "name": "Batman: The Brave and The Bold (TV Series)",
+      "link": "http://www.imdb.com/title/tt1213218/"
+    },
+    "id": "9d8d2",
+    "img": {
+      "src": "braveandboldcartoon.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "5232d2c48ab7dc9bf6e89222" },
+    "credit": {
+      "name": "Arkham Asylum (Video Game)",
+      "link": "http://www.youtube.com/watch?v=dErlfFt1mUc"
+    },
+    "id": "89222",
+    "img": {
+      "src": "arkhamasylum-game.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "5233ea508ab7dca09654646c" },
+    "credit": {
+      "name": "Shadow of the Bat #10",
+      "link": "http://en.wikipedia.org/wiki/Batman:_Shadow_of_the_Bat"
+    },
+    "id": "4646c",
+    "img": {
+      "src": "shadowofthebat10.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "5233eb918ab7dca0c295cda6" },
+    "credit": {
+      "name": "Batman #700",
+      "link": "http://www.dccomics.com/comics/batman-1940/batman-700"
+    },
+    "id": "5cda6",
+    "img": {
+      "src": "bm700-1.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "5234369c8ab7dcb1e7d1a32f" },
+    "credit": {
+      "name": "Darwyn Cooke",
+      "link": "http://darwyncooke.blogspot.com/"
+    },
+    "id": "1a32f",
+    "img": {
+      "src": "darwyncooke-1938.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "52343a2e8ab7dcb570021d50" },
+    "credit": {
+      "name": "\"There is No Hope in Crime Alley\"",
+      "link": "http://officialnerdgasm.wordpress.com/archive/that-moment-in-silent-hill-2/that-moment-in-there-is-no-hope-in-crime-alley/"
+    },
+    "id": "21d50",
+    "img": {
+      "src": "nohopeincrimealley.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "52343a528ab7dcb5ea3177c5" },
+    "credit": {
+      "name": "Batman: Year One",
+      "link": "http://batman.wikia.com/wiki/Batman:_Year_One"
+    },
+    "id": "177c5",
+    "img": {
+      "src": "yearone-1.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52343cf88ab7dcb8aa503055" },
+    "credit": {
+      "name": "Hush",
+      "link": "http://batman.wikia.com/wiki/Batman:_Hush"
+    },
+    "id": "03055",
+    "img": {
+      "src": "hush-batcatkiss.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "523441068ab7dcbcfc195292" },
+    "credit": {
+      "name": "Batman Returns",
+      "link": "http://www.imdb.com/title/tt0103776/"
+    },
+    "id": "95292",
+    "img": {
+      "src": "returns-batcat.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52392eae8ab7dc2e961883c2" },
+    "credit": {
+      "name": "\"Kids Playing Batman\" (1989 Movie Cards, Series 2)",
+      "link": "http://batmancity.over-blog.com/article-batman-the-movie-series-2-221-kids-playing-batman-topps-usa-1989-63267652.html"
+    },
+    "id": "883c2",
+    "img": {
+      "src": "1989-cards-kidsplayingbatman.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52393a888ab7dc3ba5e9b27d" },
+    "credit": {
+      "name": "The Batman-Superman Movie: World's Finest",
+      "link": "http://www.imdb.com/title/tt0169590/"
+    },
+    "id": "9b27d",
+    "img": {
+      "src": "newbatman-superman-01.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52393d6c8ab7dc3ed412c1f3" },
+    "credit": {
+      "name": "World's Finest Comics #113",
+      "link": "http://www.comicvine.com/worlds-finest-comics/4050-18006/"
+    },
+    "id": "2c1f3",
+    "img": {
+      "src": "worldsfinest-113.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "523942ac8ab7dc448006f513" },
+    "credit": {
+      "name": "Detective Comics #235",
+      "link": "http://dc.wikia.com/wiki/Thomas_Wayne's_Batman_Costume"
+    },
+    "id": "6f513",
+    "img": {
+      "src": "thomaswaynebatman-original.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52394d4b8ab7dc4f6c419e79" },
+    "credit": {
+      "name": "Batman: The Brave and The Bold",
+      "link": "http://www.imdb.com/title/tt1213218/"
+    },
+    "id": "19e79",
+    "img": {
+      "src": "braveandbold-parallelbats.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "523d28298ab7dc118f878dbf" },
+    "credit": {
+      "name": "someecards",
+      "link": "http://www.someecards.com/usercards/viewcard/MjAxMy03YTM0ZmI3NTRiYWRkNDk3"
+    },
+    "id": "78dbf",
+    "img": {
+      "src": "dearBatman-ecard.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52463f4a8ab7dc66f241c0d7" },
+    "credit": {
+      "link": "http://deantrippe.tumblr.com/post/62433668267/something-terrible-is-now-available-for-download",
+      "name": "\"Something Terrible\" by Dean Trippe"
+    },
+    "id": "1c0d7",
+    "img": {
+      "src": "deantrippe_somethingterrible.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "524b97d48ab7dc40b31b2b9e" },
+    "credit": {
+      "name": "Dave Rapoza",
+      "link": "http://daverapoza.tumblr.com/"
+    },
+    "id": "b2b9e",
+    "img": {
+      "src": "daverapoza.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "524b9d4be4b0c3e7f740a625" },
+    "credit": {
+      "link": "http://thinkingaboutbatman.com",
+      "name": "Toy found by thinkingaboutbatman.com in an NYC store."
+    },
+    "id": "0a625",
+    "img": {
+      "src": "batmanrobot_bootlegtoy.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "524bb8108ab7dc4459f4846d" },
+    "credit": {
+      "name": "Animated by ABVH, Drawn by fishnbacon",
+      "link": "http://madebyabvh.tumblr.com/post/60794287763/animated-fishnbacon-quick-one-before-bed"
+    },
+    "id": "4846d",
+    "img": {
+      "src": "abvh-fish.gif",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "524bb9e08ab7dc448726231a" },
+    "credit": {
+      "name": "Batman: The Movie (1966)",
+      "link": "http://en.wikipedia.org/wiki/Batman_(1966_film)"
+    },
+    "id": "6231a",
+    "img": {
+      "src": "batman66_shark.gif",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "524cbbad8ab7dc47ef553e7b" },
+    "credit": {
+      "name": "Golden Bat",
+      "link": "http://www.youtube.com/watch?v=o67xMxieo5E&noredirect=1"
+    },
+    "id": "53e7b",
+    "img": {
+      "src": "goldenbat.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "524cc4f8e4b00436124ac870" },
+    "credit": {
+      "name": "Mass Effect-style Batman by Adam Fisher",
+      "link": "http://www.tencentticker.com/projectrooftop/2013/09/27/pr-approved-adam-fishers-mass-effect-batman/"
+    },
+    "id": "ac870",
+    "img": {
+      "src": "adamfisher_masseffectBatman.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "525058e88ab7dc6c818476ff" },
+    "credit": {
+      "name": "Bruce Timm",
+      "link": "http://www.comicartfans.com/GalleryPiece.asp?Piece=1045002&GSub=119146"
+    },
+    "id": "476ff",
+    "img": {
+      "src": "Timm_Batman.JPG",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "52539df78ab7dcb19b24c72c" },
+    "credit": {
+      "name": "rainy day recess",
+      "link": "http://rainydayrecesstoo.tumblr.com/post/63336016989"
+    },
+    "id": "4c72c",
+    "img": {
+      "src": "supportYourLocalBatman.jpg",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "52539ea18ab7dcb1b4474eac" },
+    "credit": {
+      "link": "http://en.wikipedia.org/wiki/The_Batman_Adventures",
+      "name": "The Batman Adventures"
+    },
+    "id": "74eac",
+    "img": {
+      "src": "tas_batman_window.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "525496e48ab7dcb2fa254cb3" },
+    "credit": {
+      "name": "Ordinary Batman Adventures",
+      "link": "http://sarahj-art.tumblr.com/tagged/OrdinaryBatman"
+    },
+    "id": "54cb3",
+    "img": {
+      "src": "ordinaryBatman_haveAParent.gif",
+      "scale": "contain"
+    }
+  },
+  {
+    "_id": { "$oid": "5260b8918ab7dc244183568c" },
+    "credit": {
+      "name": "aer-dna",
+      "link": "http://aer-dna.tumblr.com/post/62704714475/its-ok-bruce-you-know-what-they-say-slow-and"
+    },
+    "id": "3568c",
+    "img": {
+      "src": "moodyWalkingLilBatman.gif",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "5260c6068ab7dc2581994696" },
+    "credit": {
+      "name": "Jim Aparo, Untold Legend of the Batman #3",
+      "link": "http://dc.wikia.com/wiki/Untold_Legend_of_the_Batman_Vol_1_3"
+    },
+    "id": "94696",
+    "img": {
+      "src": "untoldLegend-No3.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "527c682b8ab7dcfc0a975830" },
+    "credit": {
+      "name": "Matteo Scalera",
+      "link": "http://matteoscalera.deviantart.com/art/Sketch-289-287990173"
+    },
+    "id": "75830",
+    "img": {
+      "src": "matteoscalera.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "527c69138ab7dcfc29789b1d" },
+    "credit": { "name": "Christian Ledesma", "link": "" },
+    "id": "89b1d",
+    "img": {
+      "src": "christianAndSanti.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "528acf788ab7dc009ab3a270" },
+    "credit": {
+      "name": "Batkid Saves The Day! @SFWish",
+      "link": "http://sf.wish.org/wishes/wish-stories/i-wish-to-be/wish-to-be-batkid"
+    },
+    "id": "3a270",
+    "img": {
+      "src": "batkid2.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "_id": { "$oid": "52aaa98b8ab7dceaa3ecd4f2" },
+    "credit": {
+      "name": "Under the Giant Penny",
+      "link": "http://underthegiantpenny.blogspot.com/2011/11/kenner-super-powers-batmobile.html"
+    },
+    "id": "cd4f2",
+    "img": {
+      "src": "SuperPowersBatmobile.jpg",
+      "scale": ""
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "537ea464e3f4e6303b000645" },
+    "credit": { "name": "Better Than You", "link": "#/thought" },
+    "filez": { "0": {} },
+    "img": {
+      "scale": "contain",
+      "src": "batmanAdventures_betterThanYou.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "537ed90d032938c06f945771" },
+    "credit": {
+      "name": "When in Rome...",
+      "link": "http://www.geeksaresexy.net/2011/07/17/wtf-a-statue-of-batman-and-superman-in-rome-picture/"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "batman-superman-statue.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "5382e1876ea98beb806acf30" },
+    "credit": {
+      "name": "Batman serials from the 1940's",
+      "link": "http://en.wikipedia.org/wiki/Batman_(serial)"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "tumblr_n44um3Sj5g1r7dgeuo1_500.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "5382e378bdc3cf0683a1f0b5" },
+    "credit": {
+      "name": "Yale Stewart, C2E2 Convention Commission",
+      "link": "http://yalestewart.tumblr.com/post/83664337900/batman-and-robin-c2e2-convention-commission"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "tumblr_n4icg4idE21qdeazoo1_1280.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "5382e7606e9d393d87e131fe" },
+    "credit": {
+      "name": "Darkagebatman by TomEdwardsConcepts",
+      "link": "http://tomedwardsconcepts.deviantart.com/art/Darkagebatman-357040243"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "darkagebatman_by_tomedwardsconcepts-d5wkm0j.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "5382eb7de266ccb588fb4a38" },
+    "credit": {
+      "name": "Bat-Hug",
+      "link": "http://deantrippe.tumblr.com/post/85725393730/i-think-i-figured-the-batfleck-bat-symbol-out"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "tumblr_n5kkt1hSwo1qapz3uo1_400.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53a51271044630825ebec2dd" },
+    "credit": {
+      "name": "via Tim Seeley's Twitter feed",
+      "link": "https://twitter.com/HackinTimSeeley/status/472842691202801665"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "Bo_f7BPIcAAnkMU.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53a8e27f8c1060667da86d54" },
+    "credit": {
+      "name": "What are you? by Blule",
+      "link": "http://boutique.blule.fr/collections/all/products/what-are-you#"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "blule-daily-116_1024x1024.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53a8e2a58c1060667da86d55" },
+    "credit": {
+      "name": "Character Design by Dan Mora",
+      "link": "https://www.behance.net/gallery/13522419/The-Bat-man#"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "d41ec4426ad6eaffed6cac02eb3b7ccc.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53a8e3938c1060667da86d56" },
+    "credit": {
+      "name": "Art by Ian Bertram, Colors by Dave Stewart",
+      "link": "http://ianbertram.tumblr.com/post/73559609021/dave-stewarts-amazing-colors-detective-comics#"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "bertramstewart_1.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53a8e7a9f32a7c828f0b35e1" },
+    "credit": {
+      "name": "Batman by Sean Murphy",
+      "link": "http://seangordonmurphy.com"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "jiy0w.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53bf643c44b135c1692813d6" },
+    "credit": {
+      "name": "Jim Lee for San Diego Comic Con 2014",
+      "link": "www.comic-con.org"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "jim-lee-cci-souvenir-croppe.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53d06be5fac10c00007c5126" },
+    "credit": {
+      "name": "Drawn by @mpowelljr & colored by @UltraPunch",
+      "link": "http://twitter.com/Mpowelljr/status/492097713316433920/photo/1"
+    },
+    "filez": {},
+    "img": {
+      "scale": "cover",
+      "src": "BtRIQoICIAALCY3.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53d083c82fa795c501eabde8" },
+    "credit": { "name": "torisora", "link": "http://torisora.deviantart.com/" },
+    "img": {
+      "scale": "contain",
+      "src": "tumblr_mo9javGp9i1rwt4mgo7_r1_1280.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53d0898026fddfac0479118f" },
+    "credit": {
+      "name": "Tim Sale, The Long Halloween",
+      "link": "http://www.dccomics.com/graphic-novels/batman-the-long-halloween-0"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "batman_long_halloween.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53d08a5726fddfac04791190" },
+    "credit": {
+      "name": "David Mazzucchelli, Batman: Year One",
+      "link": "http://www.dccomics.com/graphic-novels/batman-year-one-deluxe-edition-0"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "bmyo.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53fff7c4b10d54f332cdb579" },
+    "credit": {
+      "name": "Batman Then & Now by @bobalgreene",
+      "link": "http://twitter.com/BobAlGreene"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "unnamed.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53fffc34b10d54f332cdb57a" },
+    "credit": {
+      "name": "Francis Manapul, NYCC 2014 Poster",
+      "link": "https://www.facebook.com/newyorkcomiccon/photos/a.10150216824885579.346266.10852735578/10152814664060579/?type=1"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "nycc-batman-cropped.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53fffd42b10d54f332cdb57b" },
+    "credit": {
+      "name": "Evan \"Doc\" Shaner",
+      "link": "http://docshaner.tumblr.com/post/95582061241/that-bat-guy-i-draw-so-rarely-a-quick-sketch-from"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "docshaner.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53fffe6fb10d54f332cdb57c" },
+    "credit": {
+      "name": "Andy Warhol & Nico, 1967",
+      "link": "http://www.retronaut.com/2012/07/andy-warhol-and-nico-as-batman-and-robin-1967/"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "d16e758e3d8ba1dd675e14eab0ca99b9.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "53ffff8db10d54f332cdb57d" },
+    "credit": {
+      "name": "Phil Postma",
+      "link": "http://minionfactory.blogspot.com/2014/06/a-night-in-life-of-bat.html"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "batman-and-robin-norman-rockwell-style-art.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "54000057b10d54f332cdb57e" },
+    "credit": {
+      "name": "Adrian Tomine",
+      "link": "http://www.adrian-tomine.com/"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "tumblr_n8ezu0bL9h1rtpgrxo1_500.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "54000138b10d54f332cdb57f" },
+    "credit": {
+      "name": "Matteo Scalera, Batman #34",
+      "link": "http://matteoscalera.deviantart.com/"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "BuyTESfCAAAuYUA.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "54000179b10d54f332cdb580" },
+    "credit": {
+      "name": "Chris Burnham",
+      "link": "https://twitter.com/TheBurnham/status/492399558215741440/photo/1"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "BtVaygVCEAEXp2l.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "5400026db10d54f332cdb581" },
+    "credit": {
+      "name": "Patrick Gleason, Batman & Robin #34",
+      "link": "http://patrickgleason.tumblr.com/"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "tumblr_n87o286wFn1qapz3uo1_1280.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f63fa3739d18c0c545a2d" },
+    "credit": {
+      "name": "Mayan Batman by kimbal",
+      "link": "https://www.behance.net/gallery/19712599/Batman-a-travs-de-la-creatividad-mexicana"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "mayan-batman1-625x351.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f64503739d18c0c545a2e" },
+    "credit": {
+      "name": "Skottie Young",
+      "link": "https://twitter.com/Rorschach3000/status/513854912518569984/photo/1"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "ByGUUbECYAEBi10.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f654d3739d18c0c545a2f" },
+    "credit": {
+      "name": "Detective Comics #575 by Alan Davis",
+      "link": "http://goodcomics.comicbookresources.com/wp-content/uploads/2014/06/batwriter16d.jpg"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "batwriter16d.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f688e3739d18c0c545a30" },
+    "credit": {
+      "name": "Segmented cape by Chris Samnee",
+      "link": "http://twitter.com/ChrisSamnee/status/510491455493005312/photo/1"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "BxWhRh5IAAAFNj-.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f69743739d18c0c545a31" },
+    "credit": {
+      "name": "Stephen Weafer",
+      "link": "http://twitter.com/karl_ellie/status/510469611364827136/photo/1"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "BxWNYyfCAAArekJ.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f69ee3739d18c0c545a32" },
+    "credit": {
+      "name": "Segmented cape by Jake Wyatt",
+      "link": "http://twitter.com/jakewyattriot/status/510358994972446720/photo/1"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "BxUozRrCIAAJTQx.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f6a903739d18c0c545a33" },
+    "credit": {
+      "name": "Mahmud Asrar",
+      "link": "https://twitter.com/MahmudAsrar/status/507924993649696768/photo/1"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "BwyDFyhIcAAOkSD.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f6b023739d18c0c545a34" },
+    "credit": {
+      "name": "Alejandro Burdisio",
+      "link": "http://www.facebook.com/alejandroburdisio"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "BvVMpXpCQAA_QJO.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f6c3e3739d18c0c545a35" },
+    "credit": {
+      "name": "Batman and Robin cover by Darwyn Cooke",
+      "link": "http://darwyncooke.blogspot.com/"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "darwinBatmanAndRobin05.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f6d113739d18c0c545a36" },
+    "credit": {
+      "name": "Batman Annual (1968)",
+      "link": "http://www.comicvine.com/batman-annual-9-1968/4000-396201/"
+    },
+    "img": {
+      "scale": "contain",
+      "src": "tumblr_n6d8upl45H1s2wio8o1_1280.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f6dad3739d18c0c545a37" },
+    "credit": {
+      "name": "Jock Donates ‘Batman: The Black Morror’ Art",
+      "link": "http://comicsalliance.com/jock-detective-comics-black-mirror-auction-leukemia/#"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "JockDetectivePage.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f8366d6b9b69d2ae14b03" },
+    "credit": {
+      "name": "The Dark Knight Returns, Book One",
+      "link": "http://en.wikipedia.org/wiki/The_Dark_Knight_Returns"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "The-Dark-Knight-Returns.jpg"
+    }
+  },
+  {
+    "__v": 0,
+    "_id": { "$oid": "542f839dd6b9b69d2ae14b04" },
+    "credit": {
+      "name": "The Dark Knight Returns",
+      "link": "http://en.wikipedia.org/wiki/The_Dark_Knight_Returns"
+    },
+    "img": {
+      "scale": "cover",
+      "src": "batman-the-dark-night-returns-picture.jpg"
+    }
+  }
+]
