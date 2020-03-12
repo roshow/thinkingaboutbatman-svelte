@@ -36,6 +36,7 @@
     width: 95%;
     padding-bottom: 63%;
     overflow: hidden;
+    -webkit-mask-image: -webkit-radial-gradient(white, black);
     background: #fff url("") no-repeat center;
     border: 10px solid #D1AC25;
     border-radius: 50%;
@@ -116,7 +117,7 @@
 >
   {#if loadingThought}
     <img class="loading-img" src="https://cdn.glitch.com/7a8fe666-2a22-45bf-90af-1ff85fad87ea%2Fbatspin2.jpg?v=1583965428499">
-    <img class="loading-logo" src="https://cdn.glitch.com/7a8fe666-2a22-45bf-90af-1ff85fad87ea%2Fbatspinlogo.png?v=1583965428499">
+    <img class="loading-logo" src="https://cdn.glitch.com/7a8fe666-2a22-45bf-90af-1ff85fad87ea%2Floadingbatlogo.png?v=1583975904157">
   {/if}
 </div>
 
