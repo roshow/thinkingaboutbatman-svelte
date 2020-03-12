@@ -68,6 +68,9 @@
 <script>
   
   import { onMount } from 'svelte';
+
+  import loadingBkgSrc from './../images/loadingbackground.jpg';
+  import loadingBatLogoSrc from './../images/loadingbatlogo.png';
   
   let imgSrc = '';
   let loadingThought = true;
@@ -97,7 +100,7 @@
   }
   
   const handleOnClick = () => {
-   getRandomBatThought();
+    if (!loadingThought) getRandomBatThought();
   }
   
   
@@ -116,8 +119,8 @@
   on:click={handleOnClick}
 >
   {#if loadingThought}
-    <img class="loading-img" src="https://cdn.glitch.com/7a8fe666-2a22-45bf-90af-1ff85fad87ea%2Fbatspin2.jpg?v=1583965428499">
-    <img class="loading-logo" src="https://cdn.glitch.com/7a8fe666-2a22-45bf-90af-1ff85fad87ea%2Floadingbatlogo.png?v=1583975904157">
+    <img class="loading-img" src="{loadingBkgSrc}" alt="loading background">
+    <img class="loading-logo" src="{loadingBatLogoSrc}" alt="loading bat logo">
   {/if}
 </div>
 

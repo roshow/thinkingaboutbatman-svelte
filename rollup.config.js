@@ -2,6 +2,7 @@ import resolve from '@rollup/plugin-node-resolve';
 import replace from '@rollup/plugin-replace';
 import commonjs from '@rollup/plugin-commonjs';
 import json from '@rollup/plugin-json';
+import image from '@rollup/plugin-image';
 import svelte from 'rollup-plugin-svelte';
 import babel from 'rollup-plugin-babel';
 import { terser } from 'rollup-plugin-terser';
@@ -19,6 +20,7 @@ export default {
 		input: config.client.input(),
 		output: config.client.output(),
 		plugins: [
+			image(),
       json(),
 			replace({
 				'process.browser': true,
@@ -64,6 +66,7 @@ export default {
 		input: config.server.input(),
 		output: config.server.output(),
 		plugins: [
+			image(),
       json(),
 			replace({
 				'process.browser': false,
