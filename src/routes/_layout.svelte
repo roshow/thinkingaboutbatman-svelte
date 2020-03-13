@@ -1,5 +1,14 @@
+<svelte:head>
+  <style>
+    body {
+      color: white;
+      background: black;
+    }
+  </style>
+</svelte:head>
+
 <style>
-	main {
+	.app-container {
 		position: relative;
     display: flex;
     flex-flow: column;
@@ -9,8 +18,21 @@
     max-width: 700px;
     margin: auto;
 	}
+  .title-treatment {
+    max-width: 356px;
+    width: 100%;
+    margin: 10px 0;
+  }
 </style>
 
-<main>
-	<slot></slot>
-</main>
+<script>
+  import titleTreatmentSrc from './../images/titletreatment.png'
+</script>
+
+<div class="app-container">
+
+  <img class="title-treatment" src={titleTreatmentSrc} alt="thinking about batman title">
+
+  <slot></slot>
+
+</div>
