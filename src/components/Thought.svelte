@@ -38,6 +38,11 @@
       border-width: 7px;
     }
   }
+  @media screen and (max-width: 420px) {
+    .bat-thought-container {
+      border-width: 5px;
+    }
+  }
 	.loading-img {
     position: absolute;
     width: 100%;
@@ -54,7 +59,7 @@
     animation: zoom-in-out 1.5s ease infinite;
   }
   .credit-block {
-    margin: 10px 0 5px;
+    margin: 20px 0 10px;
   }
   button {
     background-color:#D1AC25;
@@ -64,7 +69,7 @@
     font-weight:bold;
     padding:13px 32px;
     text-shadow:0px 1px 0px #3d768a;
-    margin: 5px 0;
+    margin: 10px 5px 0;
   }
   button:active {
     position:relative;
@@ -86,23 +91,17 @@
   export let onClick = () => {};
   export let isLoading = true;
   
-  let isCopying = false;
-  const copyLink = () => {
-    isCopying = true;
-    copy(`https://thinking-about-batman.glitch.me/thought/${batThought._id.$oid}`, {
-      debug: true,
-      onCopy: () => {
-        alert('link to bat-thought copied to clipboard');
-        isCopying = false;
-      },
-    });
+  let copyLink = () => {
+    copy(`https://thinking-about-batman.glitch.me/thought/${batThought._id.$oid}`);
+    alert('link to bat-thought has been copied to your clipboard');
   }
+
 
 </script>
 
 <div
   class="bat-thought-container" 
-  style="background-image: url({!isLoading ? imgSrc : ''}); background-size: { (!isLoading && batThought.img && batThought.img.scale) || 'cover'};"
+  style="background-image: url({!isLoading ? imgSrc : ''}); background-size: { (!isLoading && batThought.img.scale) || 'cover'};"
   on:click={onClick}
 >
   {#if isLoading}
@@ -111,14 +110,18 @@
   {/if}
 </div>
 
-<h3 class="credit-block">
+<h5 class="credit-block">
   {#if !isLoading}
-    credit: <a href="{batThought.credit.link}">{batThought.credit.name}</a>
+    <a href="{batThought.credit.link}">{batThought.credit.name}</a>
   {:else}
     thinking...
   {/if}
-</h3>
+</h5>
 
-<button on:click={copyLink} disabled={isLoading}>{isCopying ? 'copying link...' : 'copy link to this bat-thought'}</button>
+<div class="btn-container">
+  
+  <button on:click={copyLink} disabled={isLoading}>copy link to bat-thought</button>
 
-<button on:click={onClick} disabled={isLoading}>think a new bat-thought</button>
+  <button on:click={onClick} disabled={isLoading}>think a new bat-thought</button>
+
+</div>
