@@ -18,7 +18,7 @@
     }
     
 		// get the random thought info from API
-    const response = await axios.get('/thought.json', {
+    const response = await axios.get('thought.json', {
       params: {
         exclude: batThought._id && batThought._id.$oid, // don't show the same bat-thought twice
       },

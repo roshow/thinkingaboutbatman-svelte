@@ -52,7 +52,11 @@
     height: 100%;
     object-fit: contain;
     animation: zoom-in-out 1.5s ease infinite;
-	}
+  }
+  caption {
+    width: 95%;
+    text-align: left;
+  }
 </style>
 
 <script>
