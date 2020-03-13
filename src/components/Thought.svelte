@@ -23,7 +23,7 @@
   .bat-thought-container {
     position: relative;
     height: 0px;
-    width: 95%;
+    width: 100%;
     padding-bottom: 63%;
     overflow: hidden;
     -webkit-mask-image: -webkit-radial-gradient(white, black);
@@ -53,10 +53,6 @@
     object-fit: contain;
     animation: zoom-in-out 1.5s ease infinite;
   }
-  caption {
-    width: 95%;
-    text-align: left;
-  }
 </style>
 
 <script>
@@ -81,12 +77,12 @@
   {/if}
 </div>
 
-<caption>
+<h3>
   {#if !isLoading}
     credit: <a href="{batThought.credit.link}">{batThought.credit.name}</a>
   {:else}
     thinking...
   {/if}
-</caption>
+</h3>
 
 <button on:click={onClick} disabled={isLoading}>think a new bat-thought</button>

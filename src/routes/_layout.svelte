@@ -8,7 +8,7 @@
 </svelte:head>
 
 <style>
-	main {
+	.app-container {
 		position: relative;
     display: flex;
     flex-flow: column;
@@ -29,7 +29,10 @@
   import titleTreatmentSrc from './../images/titletreatment.png'
 </script>
 
-<main>
+<div class="app-container">
+
   <img class="title-treatment" src={titleTreatmentSrc} alt="thinking about batman title">
-	<slot></slot>
-</main>
+
+  <slot></slot>
+
+</div>
