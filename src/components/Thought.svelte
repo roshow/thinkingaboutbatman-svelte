@@ -24,7 +24,7 @@
     position: relative;
     height: 0px;
     width: 100%;
-    padding-bottom: 63%;
+    padding-bottom: 66%;
     overflow: hidden;
     -webkit-mask-image: -webkit-radial-gradient(white, black);
     background: #fff url("") no-repeat center;
@@ -36,6 +36,11 @@
    @media screen and (max-width: 750px) {
     .bat-thought-container {
       border-width: 7px;
+    }
+  }
+  @media screen and (max-width: 420px) {
+    .bat-thought-container {
+      border-width: 5px;
     }
   }
 	.loading-img {
@@ -53,22 +58,48 @@
     object-fit: contain;
     animation: zoom-in-out 1.5s ease infinite;
   }
+  .credit-block {
+    margin: 20px 0 10px;
+  }
+  button {
+    background-color:#D1AC25;
+    border-radius:8px;
+    cursor:pointer;
+    color:#000;
+    font-weight:bold;
+    padding:13px 32px;
+    text-shadow:0px 1px 0px #3d768a;
+    margin: 10px 5px 0;
+  }
+  button:active {
+    position:relative;
+    top:1px;
+  }
+  button:disabled {
+    opacity: 0.4;
+  }
 </style>
 
 <script>
+  import copy from 'copy-to-clipboard';
+  
   import loadingBkgSrc from './../images/loadingbackground.jpg';
   import loadingBatLogoSrc from './../images/loadingbatlogo.png';
 
   export let batThought = {};
-  export let imgSrc = '';
-  export let onClick = () => {};
   export let isLoading = true;
+  export let onClick = () => {};
+  
+  const copyLink = () => {
+    copy(`${window.location.origin}/thought/${batThought._id.$oid}`);
+    alert('The link to this bat-thought has been copied to your clipboard');
+  };
 
 </script>
 
 <div
   class="bat-thought-container" 
-  style="background-image: url({!isLoading ? imgSrc : ''}); background-size: { (!isLoading && batThought.img && batThought.img.scale) || 'cover'};"
+  style="background-image: url({!isLoading ? `https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/${batThought.img.src}` : ''}); background-size: { (!isLoading && batThought.img.scale) || 'cover'};"
   on:click={onClick}
 >
   {#if isLoading}
@@ -77,12 +108,18 @@
   {/if}
 </div>
 
-<h3>
+<h5 class="credit-block">
   {#if !isLoading}
-    credit: <a href="{batThought.credit.link}">{batThought.credit.name}</a>
+    <a href="{batThought.credit.link}">{batThought.credit.name}</a>
   {:else}
     thinking...
   {/if}
-</h3>
+</h5>
 
-<button on:click={onClick} disabled={isLoading}>think a new bat-thought</button>
+<div class="btn-container">
+  
+  <button on:click={copyLink} disabled={isLoading}>copy link to bat-thought</button>
+
+  <button on:click={onClick} disabled={isLoading}>think a new bat-thought</button>
+
+</div>

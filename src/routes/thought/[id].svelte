@@ -9,25 +9,30 @@
     if (res.status === 200) {
       batThought = await res.json();
       isLoading = false;
+      return { batThought, isLoading };
     }
     
-		return { batThought, isLoading };
+    this.error(404, 'Not found');
 	}
 </script>
 
 <script>
 
   import { onMount } from 'svelte';
-
+  import { goto } from '@sapper/app';
   import Thought from './../../components/Thought.svelte';
 
   export let batThought;
   export let isLoading;
+  
+  const onClick = () => {
+    goto('/');
+  };
 
 </script>
 
 <Thought
   batThought={batThought}
-  imgSrc={`https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/${batThought.img.src}`}
   isLoading={isLoading}
+  onClick={onClick}
 />
