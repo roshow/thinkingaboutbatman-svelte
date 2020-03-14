@@ -10,7 +10,6 @@
 
   let isLoading = true;
   let batThought = {};
-  let imgSrc = '';
 
   async function getRandomBatThought (isFirstThought) {
     if (!isFirstThought) {
@@ -32,7 +31,6 @@
       // add a little timeout so people can see the fun spinner between thoughts
       setTimeout(() => {
         isLoading = false;
-        imgSrc = image.src;
       }, 1000);
     });
   }
@@ -47,4 +45,4 @@
   
 </script>
 
-<Thought {...{ batThought, imgSrc, isLoading, onClick}} />
+<Thought {...{ batThought, isLoading, onClick}} />
