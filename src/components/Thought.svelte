@@ -99,7 +99,7 @@
 
 <div
   class="bat-thought-container" 
-  style="background-image: url({!isLoading ? `https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/${batThought.img.src}` : ''}); background-size: { (!isLoading && batThought.img.scale) || 'cover'};"
+  style="background-image: url({!isLoading ? batThought.img.src : ''}); background-size: { (!isLoading && batThought.img.scale) || 'cover'};"
   on:click={onClick}
 >
   {#if isLoading}

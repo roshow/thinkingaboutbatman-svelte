@@ -20,6 +20,7 @@
 
   import { onMount } from 'svelte';
   import { goto } from '@sapper/app';
+  import Seo from './../../components/Seo.svelte';
   import Thought from './../../components/Thought.svelte';
 
   export let batThought;
@@ -30,6 +31,12 @@
   };
 
 </script>
+
+<Seo
+  description="{batThought.credit.name}"
+  url="https://thinkingaboutbatman.com/thought/{batThought._id.$oid}"
+  image="{batThought.img.src}"
+/>
 
 <Thought
   batThought={batThought}

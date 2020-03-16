@@ -1,11 +1,7 @@
-<svelte:head>
-	<title>Thinking About Batman</title>
-</svelte:head>
-
 <script>
   import { onMount } from 'svelte';
   import axios from 'axios';
-
+  import Seo from './../components/Seo.svelte';
   import Thought from './../components/Thought.svelte';
 
   let isLoading = true;
@@ -26,7 +22,7 @@
 		
 		// preload image before rendering it
     const image = new Image();
-    image.src = `https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/${batThought.img.src}`;
+    image.src = batThought.img.src;
     image.decode().then(() => {
       // add a little timeout so people can see the fun spinner between thoughts
       setTimeout(() => {
@@ -44,5 +40,7 @@
   });
   
 </script>
+
+<Seo />
 
 <Thought {...{ batThought, isLoading, onClick}} />
