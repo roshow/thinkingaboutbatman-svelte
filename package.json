@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "thinkingaboutbatman",
+  "description": "thinkingaboutbatman",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
@@ -20,7 +20,7 @@
     "copy-to-clipboard": "^3.3.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.8.6",
     "@babel/plugin-syntax-dynamic-import": "^7.0.0",
     "@babel/plugin-transform-runtime": "^7.0.0",
     "@babel/preset-env": "^7.8.6",

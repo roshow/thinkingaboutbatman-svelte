@@ -7,7 +7,7 @@
     },
     "id": "0aa24",
     "img": {
-      "src": "1989.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/1989.jpg",
       "scale": ""
     }
   },
@@ -19,7 +19,7 @@
     },
     "id": "0aa25",
     "img": {
-      "src": "Batman-Capullo.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/Batman-Capullo.jpg",
       "scale": ""
     }
   },
@@ -31,7 +31,7 @@
     },
     "id": "0aa26",
     "img": {
-      "src": "iambrucewayne.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/iambrucewayne.jpg",
       "scale": ""
     }
   },
@@ -43,7 +43,7 @@
     },
     "id": "0aa27",
     "img": {
-      "src": "1966.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/1966.jpg",
       "scale": "cover"
     }
   },
@@ -55,7 +55,7 @@
     },
     "id": "0aa28",
     "img": {
-      "src": "untoldlegend.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/untoldlegend.jpg",
       "scale": "cover"
     }
   },
@@ -67,7 +67,7 @@
     },
     "id": "0aa29",
     "img": {
-      "src": "begins.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/begins.jpg",
       "scale": "cover"
     }
   },
@@ -79,7 +79,7 @@
     },
     "id": "0aa2a",
     "img": {
-      "src": "mpowell.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/mpowell.jpg",
       "scale": "contain"
     }
   },
@@ -91,7 +91,7 @@
     },
     "id": "f88a0",
     "img": {
-      "src": "quitely.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/quitely.jpg",
       "scale": ""
     }
   },
@@ -103,7 +103,7 @@
     },
     "id": "0aa31",
     "img": {
-      "src": "jockmondotdkr.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/jockmondotdkr.jpg",
       "scale": "cover"
     }
   },
@@ -115,7 +115,7 @@
     },
     "id": "0aa32",
     "img": {
-      "src": "scaryjoker.gif",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/scaryjoker.gif",
       "scale": ""
     }
   },
@@ -127,7 +127,7 @@
     },
     "id": "0aa33",
     "img": {
-      "src": "tas.gif",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tas.gif",
       "scale": ""
     }
   },
@@ -139,7 +139,7 @@
     },
     "id": "0aa34",
     "img": {
-      "src": "zurenarrhrip.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/zurenarrhrip.jpg",
       "scale": ""
     }
   },
@@ -151,7 +151,7 @@
     },
     "id": "0aa35",
     "img": {
-      "src": "batmanincfinity.gif",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batmanincfinity.gif",
       "scale": ""
     }
   },
@@ -163,7 +163,7 @@
     },
     "id": "0aa36",
     "img": {
-      "src": "tdkrskyscraper.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tdkrskyscraper.jpg",
       "scale": ""
     }
   },
@@ -175,7 +175,7 @@
     },
     "id": "0aa37",
     "img": {
-      "src": "keaton1989.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/keaton1989.jpg",
       "scale": ""
     }
   },
@@ -184,7 +184,7 @@
     "credit": { "name": "Neal Adams", "link": "http://www.nealadams.com/" },
     "id": "0aa38",
     "img": {
-      "src": "nealadams.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/nealadams.jpg",
       "scale": "contain"
     }
   },
@@ -196,7 +196,7 @@
     },
     "id": "8e01f",
     "img": {
-      "src": "beginsflass.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/beginsflass.jpg",
       "scale": ""
     }
   },
@@ -208,7 +208,7 @@
     },
     "id": "8e022",
     "img": {
-      "src": "tdkinterrogation.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tdkinterrogation.jpg",
       "scale": "cover"
     }
   },
@@ -220,7 +220,7 @@
     },
     "id": "849ab",
     "img": {
-      "src": "yalestewart.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/yalestewart.jpg",
       "scale": "contain"
     }
   },
@@ -232,7 +232,7 @@
     },
     "id": "849ac",
     "img": {
-      "src": "trippe-inksPhoto.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/trippe-inksPhoto.jpg",
       "scale": ""
     }
   },
@@ -244,7 +244,7 @@
     },
     "id": "29f25",
     "img": {
-      "src": "detective27.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/detective27.jpg",
       "scale": "cover"
     }
   },
@@ -256,7 +256,7 @@
     },
     "id": "29f26",
     "img": {
-      "src": "detective38.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/detective38.jpg",
       "scale": "contain"
     }
   },
@@ -268,7 +268,7 @@
     },
     "id": "29f34",
     "img": {
-      "src": "dkr-horse.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/dkr-horse.jpg",
       "scale": "cover"
     }
   },
@@ -280,7 +280,7 @@
     },
     "id": "c9e1f",
     "img": {
-      "src": "batmanandrobin1.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batmanandrobin1.jpg",
       "scale": ""
     }
   },
@@ -292,7 +292,7 @@
     },
     "id": "205ab",
     "img": {
-      "src": "adamwest-bts.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/adamwest-bts.jpg",
       "scale": ""
     }
   },
@@ -304,7 +304,7 @@
     },
     "id": "d81b6",
     "img": {
-      "src": "superpowers.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/superpowers.jpg",
       "scale": "contain"
     }
   },
@@ -316,7 +316,7 @@
     },
     "id": "87fde",
     "img": {
-      "src": "batmanchaseforever.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batmanchaseforever.jpg",
       "scale": "cover"
     }
   },
@@ -328,7 +328,7 @@
     },
     "id": "472be",
     "img": {
-      "src": "andykubert.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/andykubert.jpg",
       "scale": "cover"
     }
   },
@@ -340,7 +340,7 @@
     },
     "id": "3247e",
     "img": {
-      "src": "newadventures.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/newadventures.jpg",
       "scale": "contain"
     }
   },
@@ -352,7 +352,7 @@
     },
     "id": "4586a",
     "img": {
-      "src": "speedingbullets.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/speedingbullets.jpg",
       "scale": "contain"
     }
   },
@@ -364,7 +364,7 @@
     },
     "id": "14fcd",
     "img": {
-      "src": "batmanbeginsintro.gif",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batmanbeginsintro.gif",
       "scale": ""
     }
   },
@@ -376,7 +376,7 @@
     },
     "id": "d4407",
     "img": {
-      "src": "1989ending.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/1989ending.jpg",
       "scale": ""
     }
   },
@@ -388,7 +388,7 @@
     },
     "id": "9d8d2",
     "img": {
-      "src": "braveandboldcartoon.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/braveandboldcartoon.jpg",
       "scale": ""
     }
   },
@@ -400,7 +400,7 @@
     },
     "id": "89222",
     "img": {
-      "src": "arkhamasylum-game.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/arkhamasylum-game.jpg",
       "scale": ""
     }
   },
@@ -412,7 +412,7 @@
     },
     "id": "4646c",
     "img": {
-      "src": "shadowofthebat10.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/shadowofthebat10.jpg",
       "scale": ""
     }
   },
@@ -424,7 +424,7 @@
     },
     "id": "5cda6",
     "img": {
-      "src": "bm700-1.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/bm700-1.jpg",
       "scale": "contain"
     }
   },
@@ -436,7 +436,7 @@
     },
     "id": "1a32f",
     "img": {
-      "src": "darwyncooke-1938.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/darwyncooke-1938.jpg",
       "scale": "contain"
     }
   },
@@ -448,7 +448,7 @@
     },
     "id": "21d50",
     "img": {
-      "src": "nohopeincrimealley.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/nohopeincrimealley.jpg",
       "scale": "contain"
     }
   },
@@ -460,7 +460,7 @@
     },
     "id": "177c5",
     "img": {
-      "src": "yearone-1.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/yearone-1.jpg",
       "scale": ""
     }
   },
@@ -472,7 +472,7 @@
     },
     "id": "03055",
     "img": {
-      "src": "hush-batcatkiss.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/hush-batcatkiss.jpg",
       "scale": ""
     }
   },
@@ -484,7 +484,7 @@
     },
     "id": "95292",
     "img": {
-      "src": "returns-batcat.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/returns-batcat.jpg",
       "scale": ""
     }
   },
@@ -496,7 +496,7 @@
     },
     "id": "883c2",
     "img": {
-      "src": "1989-cards-kidsplayingbatman.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/1989-cards-kidsplayingbatman.jpg",
       "scale": ""
     }
   },
@@ -508,7 +508,7 @@
     },
     "id": "9b27d",
     "img": {
-      "src": "newbatman-superman-01.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/newbatman-superman-01.jpg",
       "scale": ""
     }
   },
@@ -520,7 +520,7 @@
     },
     "id": "2c1f3",
     "img": {
-      "src": "worldsfinest-113.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/worldsfinest-113.jpg",
       "scale": ""
     }
   },
@@ -532,7 +532,7 @@
     },
     "id": "6f513",
     "img": {
-      "src": "thomaswaynebatman-original.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/thomaswaynebatman-original.jpg",
       "scale": ""
     }
   },
@@ -544,7 +544,7 @@
     },
     "id": "19e79",
     "img": {
-      "src": "braveandbold-parallelbats.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/braveandbold-parallelbats.jpg",
       "scale": ""
     }
   },
@@ -556,7 +556,7 @@
     },
     "id": "78dbf",
     "img": {
-      "src": "dearBatman-ecard.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/dearBatman-ecard.jpg",
       "scale": ""
     }
   },
@@ -568,7 +568,7 @@
     },
     "id": "1c0d7",
     "img": {
-      "src": "deantrippe_somethingterrible.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/deantrippe_somethingterrible.jpg",
       "scale": ""
     }
   },
@@ -580,7 +580,7 @@
     },
     "id": "b2b9e",
     "img": {
-      "src": "daverapoza.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/daverapoza.jpg",
       "scale": "contain"
     }
   },
@@ -592,7 +592,7 @@
     },
     "id": "0a625",
     "img": {
-      "src": "batmanrobot_bootlegtoy.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batmanrobot_bootlegtoy.jpg",
       "scale": ""
     }
   },
@@ -604,7 +604,7 @@
     },
     "id": "4846d",
     "img": {
-      "src": "abvh-fish.gif",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/abvh-fish.gif",
       "scale": ""
     }
   },
@@ -616,7 +616,7 @@
     },
     "id": "6231a",
     "img": {
-      "src": "batman66_shark.gif",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batman66_shark.gif",
       "scale": ""
     }
   },
@@ -628,7 +628,7 @@
     },
     "id": "53e7b",
     "img": {
-      "src": "goldenbat.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/goldenbat.jpg",
       "scale": ""
     }
   },
@@ -640,7 +640,7 @@
     },
     "id": "ac870",
     "img": {
-      "src": "adamfisher_masseffectBatman.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/adamfisher_masseffectBatman.jpg",
       "scale": ""
     }
   },
@@ -652,7 +652,7 @@
     },
     "id": "476ff",
     "img": {
-      "src": "Timm_Batman.JPG",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/Timm_Batman.JPG",
       "scale": "contain"
     }
   },
@@ -664,7 +664,7 @@
     },
     "id": "4c72c",
     "img": {
-      "src": "supportYourLocalBatman.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/supportYourLocalBatman.jpg",
       "scale": "contain"
     }
   },
@@ -676,7 +676,7 @@
     },
     "id": "74eac",
     "img": {
-      "src": "tas_batman_window.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tas_batman_window.jpg",
       "scale": ""
     }
   },
@@ -688,7 +688,7 @@
     },
     "id": "54cb3",
     "img": {
-      "src": "ordinaryBatman_haveAParent.gif",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/ordinaryBatman_haveAParent.gif",
       "scale": "contain"
     }
   },
@@ -700,7 +700,7 @@
     },
     "id": "3568c",
     "img": {
-      "src": "moodyWalkingLilBatman.gif",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/moodyWalkingLilBatman.gif",
       "scale": ""
     }
   },
@@ -712,7 +712,7 @@
     },
     "id": "94696",
     "img": {
-      "src": "untoldLegend-No3.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/untoldLegend-No3.jpg",
       "scale": ""
     }
   },
@@ -724,7 +724,7 @@
     },
     "id": "75830",
     "img": {
-      "src": "matteoscalera.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/matteoscalera.jpg",
       "scale": ""
     }
   },
@@ -733,7 +733,7 @@
     "credit": { "name": "Christian Ledesma", "link": "" },
     "id": "89b1d",
     "img": {
-      "src": "christianAndSanti.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/christianAndSanti.jpg",
       "scale": ""
     }
   },
@@ -745,7 +745,7 @@
     },
     "id": "3a270",
     "img": {
-      "src": "batkid2.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batkid2.jpg",
       "scale": ""
     }
   },
@@ -757,7 +757,7 @@
     },
     "id": "cd4f2",
     "img": {
-      "src": "SuperPowersBatmobile.jpg",
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/SuperPowersBatmobile.jpg",
       "scale": ""
     }
   },
@@ -768,7 +768,7 @@
     "filez": { "0": {} },
     "img": {
       "scale": "contain",
-      "src": "batmanAdventures_betterThanYou.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batmanAdventures_betterThanYou.jpg"
     }
   },
   {
@@ -780,7 +780,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "batman-superman-statue.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batman-superman-statue.jpg"
     }
   },
   {
@@ -792,7 +792,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "tumblr_n44um3Sj5g1r7dgeuo1_500.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tumblr_n44um3Sj5g1r7dgeuo1_500.jpg"
     }
   },
   {
@@ -804,7 +804,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "tumblr_n4icg4idE21qdeazoo1_1280.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tumblr_n4icg4idE21qdeazoo1_1280.jpg"
     }
   },
   {
@@ -816,7 +816,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "darkagebatman_by_tomedwardsconcepts-d5wkm0j.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/darkagebatman_by_tomedwardsconcepts-d5wkm0j.jpg"
     }
   },
   {
@@ -828,7 +828,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "tumblr_n5kkt1hSwo1qapz3uo1_400.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tumblr_n5kkt1hSwo1qapz3uo1_400.jpg"
     }
   },
   {
@@ -840,7 +840,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "Bo_f7BPIcAAnkMU.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/Bo_f7BPIcAAnkMU.jpg"
     }
   },
   {
@@ -852,7 +852,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "blule-daily-116_1024x1024.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/blule-daily-116_1024x1024.jpg"
     }
   },
   {
@@ -864,7 +864,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "d41ec4426ad6eaffed6cac02eb3b7ccc.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/d41ec4426ad6eaffed6cac02eb3b7ccc.jpg"
     }
   },
   {
@@ -876,7 +876,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "bertramstewart_1.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/bertramstewart_1.jpg"
     }
   },
   {
@@ -888,7 +888,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "jiy0w.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/jiy0w.jpg"
     }
   },
   {
@@ -900,7 +900,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "jim-lee-cci-souvenir-croppe.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/jim-lee-cci-souvenir-croppe.jpg"
     }
   },
   {
@@ -913,7 +913,7 @@
     "filez": {},
     "img": {
       "scale": "cover",
-      "src": "BtRIQoICIAALCY3.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/BtRIQoICIAALCY3.jpg"
     }
   },
   {
@@ -922,7 +922,7 @@
     "credit": { "name": "torisora", "link": "http://torisora.deviantart.com/" },
     "img": {
       "scale": "contain",
-      "src": "tumblr_mo9javGp9i1rwt4mgo7_r1_1280.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tumblr_mo9javGp9i1rwt4mgo7_r1_1280.jpg"
     }
   },
   {
@@ -934,7 +934,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "batman_long_halloween.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batman_long_halloween.jpg"
     }
   },
   {
@@ -946,7 +946,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "bmyo.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/bmyo.jpg"
     }
   },
   {
@@ -958,7 +958,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "unnamed.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/unnamed.jpg"
     }
   },
   {
@@ -970,7 +970,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "nycc-batman-cropped.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/nycc-batman-cropped.jpg"
     }
   },
   {
@@ -982,7 +982,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "docshaner.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/docshaner.jpg"
     }
   },
   {
@@ -994,7 +994,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "d16e758e3d8ba1dd675e14eab0ca99b9.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/d16e758e3d8ba1dd675e14eab0ca99b9.jpg"
     }
   },
   {
@@ -1006,7 +1006,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "batman-and-robin-norman-rockwell-style-art.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batman-and-robin-norman-rockwell-style-art.jpg"
     }
   },
   {
@@ -1018,7 +1018,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "tumblr_n8ezu0bL9h1rtpgrxo1_500.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tumblr_n8ezu0bL9h1rtpgrxo1_500.jpg"
     }
   },
   {
@@ -1030,7 +1030,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "BuyTESfCAAAuYUA.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/BuyTESfCAAAuYUA.jpg"
     }
   },
   {
@@ -1042,7 +1042,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "BtVaygVCEAEXp2l.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/BtVaygVCEAEXp2l.jpg"
     }
   },
   {
@@ -1054,7 +1054,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "tumblr_n87o286wFn1qapz3uo1_1280.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tumblr_n87o286wFn1qapz3uo1_1280.jpg"
     }
   },
   {
@@ -1066,7 +1066,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "mayan-batman1-625x351.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/mayan-batman1-625x351.jpg"
     }
   },
   {
@@ -1078,7 +1078,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "ByGUUbECYAEBi10.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/ByGUUbECYAEBi10.jpg"
     }
   },
   {
@@ -1090,7 +1090,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "batwriter16d.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batwriter16d.jpg"
     }
   },
   {
@@ -1102,7 +1102,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "BxWhRh5IAAAFNj-.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/BxWhRh5IAAAFNj-.jpg"
     }
   },
   {
@@ -1114,7 +1114,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "BxWNYyfCAAArekJ.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/BxWNYyfCAAArekJ.jpg"
     }
   },
   {
@@ -1126,7 +1126,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "BxUozRrCIAAJTQx.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/BxUozRrCIAAJTQx.jpg"
     }
   },
   {
@@ -1138,7 +1138,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "BwyDFyhIcAAOkSD.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/BwyDFyhIcAAOkSD.jpg"
     }
   },
   {
@@ -1150,7 +1150,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "BvVMpXpCQAA_QJO.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/BvVMpXpCQAA_QJO.jpg"
     }
   },
   {
@@ -1162,7 +1162,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "darwinBatmanAndRobin05.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/darwinBatmanAndRobin05.jpg"
     }
   },
   {
@@ -1174,7 +1174,7 @@
     },
     "img": {
       "scale": "contain",
-      "src": "tumblr_n6d8upl45H1s2wio8o1_1280.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/tumblr_n6d8upl45H1s2wio8o1_1280.jpg"
     }
   },
   {
@@ -1186,7 +1186,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "JockDetectivePage.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/JockDetectivePage.jpg"
     }
   },
   {
@@ -1198,7 +1198,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "The-Dark-Knight-Returns.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/The-Dark-Knight-Returns.jpg"
     }
   },
   {
@@ -1210,7 +1210,7 @@
     },
     "img": {
       "scale": "cover",
-      "src": "batman-the-dark-night-returns-picture.jpg"
+      "src": "https://thinking-about-batman.s3.us-east-2.amazonaws.com/images/batman-the-dark-night-returns-picture.jpg"
     }
   }
 ]

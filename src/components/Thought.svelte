@@ -87,21 +87,19 @@
   import loadingBatLogoSrc from './../images/loadingbatlogo.png';
 
   export let batThought = {};
-  export let imgSrc = '';
-  export let onClick = () => {};
   export let isLoading = true;
+  export let onClick = () => {};
   
-  let copyLink = () => {
-    copy(`https://thinking-about-batman.glitch.me/thought/${batThought._id.$oid}`);
-    alert('link to bat-thought has been copied to your clipboard');
-  }
-
+  const copyLink = () => {
+    copy(`${window.location.origin}/thought/${batThought._id.$oid}`);
+    alert('The link to this bat-thought has been copied to your clipboard');
+  };
 
 </script>
 
 <div
   class="bat-thought-container" 
-  style="background-image: url({!isLoading ? imgSrc : ''}); background-size: { (!isLoading && batThought.img.scale) || 'cover'};"
+  style="background-image: url({!isLoading ? batThought.img.src : ''}); background-size: { (!isLoading && batThought.img.scale) || 'cover'};"
   on:click={onClick}
 >
   {#if isLoading}
