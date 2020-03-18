@@ -36,6 +36,6 @@
     "rollup-plugin-svelte": "^5.0.1",
     "rollup-plugin-terser": "^5.1.3",
     "sapper": "^0.27.0",
-    "svelte": "git@github.com:wix-incubator/wix-svelte.git#master"
+    "svelte": "https://github.com/wix-incubator/wix-svelte.git#master"
   }
 }
