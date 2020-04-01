@@ -1,4 +1,16 @@
 {
   "version": 2,
-  "builds": [{ "src": "package.json", "use": "now-sapper" }]
+  "builds": [{ "src": "package.json", "use": "now-sapper" }],
+  "env": {
+    "AUTH0_CLIENT_ID": "@shifters-client-id",
+    "AUTH0_CLIENT_SECRET": "@shifters-client-secret",
+    "COOKIE_SECRET": "@shifters-cookie-secret"
+  },
+  "build": {
+    "env": {
+      "AUTH0_CLIENT_ID": "@shifters-client-id",
+      "AUTH0_CLIENT_SECRET": "@shifters-client-secret",
+      "COOKIE_SECRET": "@shifters-cookie-secret"
+    }
+  }
 }
