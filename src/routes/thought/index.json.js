@@ -11,7 +11,6 @@ const getRandomThought = (idToExclude) => {
 export function get(req, res) {
 	res.writeHead(200, {
 		'Content-Type': 'application/json',
-    'Access-Control-Allow-Origin': '*',
 	});
 	
 	const thought = getRandomThought(req.query.exclude);
