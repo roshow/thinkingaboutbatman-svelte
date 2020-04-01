@@ -1,6 +1,6 @@
 <script context="module">
 
-	export async function preload(page, session) {
+	export async function preload(page) {
     const { id } = page.params;
     
     const res = await this.fetch(`thought/${id}.json`);
@@ -18,7 +18,6 @@
 
 <script>
 
-  import { onMount } from 'svelte';
   import { goto } from '@sapper/app';
   import Seo from './../../components/Seo.svelte';
   import Thought from './../../components/Thought.svelte';

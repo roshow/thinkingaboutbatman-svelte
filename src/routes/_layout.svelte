@@ -38,13 +38,15 @@
 
 <div class="app-container">
 
-  <img class="title-treatment" src={titleTreatmentSrc} alt="thinking about batman title">
+  <a href="/"><img class="title-treatment" src={titleTreatmentSrc} alt="thinking about batman title"></a>
 
   <slot></slot>
   
   <h5 class="disclaimer">
     thinkingaboutbatman.com is an unofficial fansite by <a href="https://roshow.net">roshow</a>
   </h5>
+
+  <a href="/admin">Admin</a>
 
 </div>
 

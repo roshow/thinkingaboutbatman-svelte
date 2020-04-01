@@ -6,7 +6,6 @@ export function get(req, res, next) {
   if (thought) {
     res.writeHead(200, {
       'Content-Type': 'application/json',
-      'Access-Control-Allow-Origin': '*',
     });
     res.end(JSON.stringify(thought));
   } else {
