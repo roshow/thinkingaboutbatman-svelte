@@ -1,6 +1,14 @@
 {
   "version": 2,
-  "builds": [{ "src": "package.json", "use": "now-sapper" }],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "now-sapper",
+      "config": {
+        "build": false
+      }
+    }
+  ],
   "env": {
     "AUTH0_CLIENT_ID": "@shifters-client-id",
     "AUTH0_CLIENT_SECRET": "@shifters-client-secret",
