@@ -1,12 +1,13 @@
 import { initAuth0 } from '@auth0/nextjs-auth0';
 
-const SITE_URL = 'http://localhost:3000';
-
 const {
   AUTH0_CLIENT_ID,
   AUTH0_CLIENT_SECRET,
   COOKIE_SECRET,
-} = (typeof process === 'object') ? process.env : {};
+  NODE_ENV,
+} = typeof window === 'undefined' ? process.env : {};
+
+const SITE_URL = NODE_ENV === 'production' ? 'https://thinkingaboutbatman-svelte.roshow.now.sh' : 'http://localhost:3000';
 
 export default initAuth0({
   domain: 'dev-mn7oivc5.auth0.com',
